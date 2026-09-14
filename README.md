@@ -17,6 +17,7 @@ Agents built with the Hugging Face `smolagents` library.
 | `05_Sharing_and_Importing_Tools` | Pushing tools to the Hub and loading tools from it |
 | `06_Retrieval_Agent_With_Custom_Tools` | A retrieval agent over a small local knowledge base |
 | `07_Calculator_And_Converter_Agent` | An agent with a calculator tool and a unit converter tool |
+| `08_Text_Stats_And_Formatter_Agent` | An agent with a text stats tool and a text formatter tool |
 
 ## Running the notebooks
 
