@@ -18,6 +18,7 @@ Agents built with the Hugging Face `smolagents` library.
 | `06_Retrieval_Agent_With_Custom_Tools` | A retrieval agent over a small local knowledge base |
 | `07_Calculator_And_Converter_Agent` | An agent with a calculator tool and a unit converter tool |
 | `08_Text_Stats_And_Formatter_Agent` | An agent with a text stats tool and a text formatter tool |
+| `09_Date_And_Time_Helper_Agent` | An agent with a date difference tool and a date formatter tool |
 
 ## Running the notebooks
 
