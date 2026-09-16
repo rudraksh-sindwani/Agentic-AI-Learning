@@ -20,6 +20,14 @@ Agents built with the Hugging Face `smolagents` library.
 | `08_Text_Stats_And_Formatter_Agent` | An agent with a text stats tool and a text formatter tool |
 | `09_Date_And_Time_Helper_Agent` | An agent with a date difference tool and a date formatter tool |
 
+## 02 AI Ethics Case Studies
+
+Short case studies working through real-world incidents, using small synthetic simulations to make the mechanism concrete.
+
+| Notebook | What it covers |
+| --- | --- |
+| `01_Tokyo_Medical_University_Scandal` | A group-level score deduction, and how a cutoff learned from its outcomes carries the same bias into fresh, fair data |
+
 ## Running the notebooks
 
 The notebooks use `InferenceClientModel`, so the language model runs on the Hugging Face Inference API rather than locally.
