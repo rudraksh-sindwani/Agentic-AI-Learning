@@ -19,6 +19,7 @@ Agents built with the Hugging Face `smolagents` library.
 | `07_Calculator_And_Converter_Agent` | An agent with a calculator tool and a unit converter tool |
 | `08_Text_Stats_And_Formatter_Agent` | An agent with a text stats tool and a text formatter tool |
 | `09_Date_And_Time_Helper_Agent` | An agent with a date difference tool and a date formatter tool |
+| `10_Prompt_Injection_Detector_Agent` | An agent with a rule-based scanner tool and a redaction tool, plus why keyword matching alone is not a real defense |
 
 ## 02 AI Ethics Case Studies
 
