@@ -30,6 +30,7 @@ Short case studies working through real-world incidents, using small synthetic s
 | --- | --- |
 | `01_Tokyo_Medical_University_Scandal` | A group-level score deduction, and how a cutoff learned from its outcomes carries the same bias into fresh, fair data |
 | `02_COMPAS_Recidivism_Score_Controversy` | Why a score can be honestly calibrated and still have unequal error rates across groups, and why fixing one breaks the other |
+| `03_Amazon_Scrapped_Hiring_Tool` | How a neutral-looking resume feature becomes a proxy for group membership, and why dropping one proxy doesn't guarantee there isn't another |
 
 ## Running the notebooks
 
